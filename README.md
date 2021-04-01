@@ -9,4 +9,3 @@
 
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaynbausj&theme=dark&count_private=true&show_icons=true)
-<br>
